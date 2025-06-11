@@ -1,4 +1,4 @@
-# Technical Task 2
+# Tech 2 - Biggest Contributor
 
 ## Deskripsi
 
