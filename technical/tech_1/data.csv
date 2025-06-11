@@ -1,0 +1,4 @@
+input,expected_output
+"3 3 3 3",0
+"3 4 3",0
+"3 4 1",2
